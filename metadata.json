@@ -1,0 +1,6 @@
+{
+  "name": "DorkSleuth",
+  "description": "Advanced Google Dorks generator for SOCMINT and OSINT investigations based on common search operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
